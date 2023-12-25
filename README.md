@@ -1,16 +1,27 @@
-### Hi there 👋
+# 👋 Hello, I'm Hassan!
 
-<!--
-**hassanrao786/hassanrao786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a recent graduate from Pakistan, with a passion for crafting the web.
 
-Here are some ideas to get you started:
+🌍 **Based in Indonesia**  
+✉️ **Contact me:** hassanrao875@gmail.com  
+🌱 **Currently exploring:** web 3.0 & Metaverse 
+⚡ **Fun fact:**I love unraveling the mysteries of web development, just like I enjoy solving murder mysteries! 🕸️💻😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technologies & Tools
+
+Here's a glimpse of my tech stack:
+
+- **Languages:** JavaScript, Python
+- **Frontend:** HTML5, CSS3, React, Bootstrap
+- **Backend:** NodeJS, Express
+- **Database:** MongoDB
+
+## 🚀 Learning Journey
+
+Embarking on a journey to master Web 3.0  and Metaverse.
+
+## 📬 Get in Touch
+
+Let's connect! Reach out to me at hassanrao875@gmail.com.
+
+**Excited to code something extraordinary together!** 💻✨
